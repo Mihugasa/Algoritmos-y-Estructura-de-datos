@@ -1,0 +1,13 @@
+1. Implemente un TDA que representará un objeto o accesorio del juego, elija
+Ud. 4 atributos.
+2. Implementar una estructura de datos llamado “Matrix3D”, con uso de
+templates que implemente un solo arreglo unidimensional.
+3. Implementar un método que simule el funcionamiento de una inserción en
+una matriz bidimensional, pero utilizando un arreglo unidimensional. 
+4. Implementar un método que devuelvan los objetos que se encuentren en un
+solo plano (x,y) ,( x,z) o (y,z).
+5. Realizar su análisis de complejidad detallado y Big O del método anterior.
+6. Implementar un método que guarde en un archivo secuencial los elementos.
+Ud elija la estructura de guardado.
+7. Implementar un método que busque recursivamente un elemento basado
+en atributo del objeto. 
